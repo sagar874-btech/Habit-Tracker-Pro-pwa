@@ -108,7 +108,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@sagar874-btech](https://github.com/sagar874-btech)
 
 ## Acknowledgments
 
@@ -123,7 +123,7 @@ Your Name - [@yourusername](https://github.com/yourusername)
 ```
 MIT License
 
-Copyright (c) 2024 sagar
+Copyright (c) 2024 Sagar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
